@@ -1,3 +1,19 @@
+## Table of Contents
+
+- [Project Background](#project-background)
+- [Executive Summary](#executive-summary)
+- [Key Focus Areas](#key-focus-areas)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning Summary](#data-cleaning-summary-sql)
+- [Dashboard Preview](#dashboard-preview)
+- [Repository Structure](#repository-structure)
+- [How to Run This Project](#how-to-run-this-project)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Author](#author)
+
+---
+
 # IBRD Statement of Loans & Guarantees — Financial Analysis Dashboard
 
 ---
@@ -124,7 +140,7 @@ The **disbursed amount** represents the total money the IBRD has ever released t
 ---
 
 
-## Data Cleaning Summary (SQL)
+## Data Cleaning Process (SQL)
 
 - Inspected the dataset and checked for duplicate records using key loan identifiers.  
 - Standardized column names for countries and guarantors for better consistency.  
