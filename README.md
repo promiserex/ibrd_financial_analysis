@@ -103,19 +103,22 @@ The **disbursed amount** represents the total money the IBRD has ever released t
 
 ---
 
-## Skills & Tools Demonstrated
+## Tools and Technologies
+MySQL – Data cleaning and preparation
+Excel / CSV – Raw data source
+Power BI – Dashboard creation and data visualization
+Data Cleaning Process
+The dataset was cleaned and prepared in MySQL before analysis. Steps included:
 
-* Financial data analysis
-* Risk & exposure assessment
-* Executive dashboard reporting
-* Data storytelling and visualization
-* Strategic insights and recommendations
+## Imported the dataset using the Table Data Import Wizard.
 
----
+Inspected table structure and column types using SELECT queries.
+Checked for duplicate records using window functions.
+Checked and handled missing or NULL values.
+Inspected text formats using TRIM(), UPPER(), and REPLACE() functions.
+Validated data accuracy before visualizing in Power BI.
 
-If you want, I can now also:
-✅ Add a **Live Demo link to your Wix site**
-✅ Add a **Screenshots section for charts**
-✅ Write a **short recruiter-friendly repo description**
-
-Just tell me what you want to add next.
+## Repository Contents
+Raw and cleaned datasets → Raw and cleaned datasets (Excel/CSV)
+affordable housing data cleaning.sql → MySQL cleaning and transformation queries
+Affordable Housing Dashboard → Power BI
