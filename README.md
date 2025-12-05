@@ -19,20 +19,20 @@ The goal is to clearly understand how countries **borrow, repay, and manage thei
 
 ---
 
-##  Key Areas of Analysis
+##  Project Objectives
 
 * Analyze outstanding loan exposure by country
 * Evaluate repayment performance across borrowers
 * Compare disbursed vs undisbursed loan amounts
 * Track long-term repayment obligations through maturity timelines
 * Assess project activity by country
+* Deliver clear insights that support monitoring and strategic planning
 
 ---
 
 ## Executive Summary <br>
-<p align ="center">
-<img width="800" height="640" alt="dashboard 3" src="https://github.com/user-attachments/assets/8b5f804c-666e-4c3c-87e8-058ee2d93de3" /></p>
-<br>
+<img width="800" height="640" alt="dashboard 3" src="https://github.com/user-attachments/assets/8b5f804c-666e-4c3c-87e8-058ee2d93de3" />
+
 Total repayments to IBRD stand at **USD 38 billion**, with **USD 45.1 billion** still outstanding across **1,264 active projects**. The analysis shows that repayment obligations are heavily concentrated between **2035 and 2050**, marking the most critical period for long-term cash-flow planning and risk monitoring. The findings reveal strong concentration in both country exposure and future repayment pressure.
 
 ---
@@ -49,6 +49,8 @@ Total repayments to IBRD stand at **USD 38 billion**, with **USD 45.1 billion** 
 Outstanding loan exposure is heavily concentrated in just two countries. **Colombia ($17.9B)** and **Egypt ($14.3B)** sit far above all others, meaning most financial risk is tied to these two borrowers. After Egypt, exposure drops sharply, with **Ecuador at $7B**, already less than half of Colombia’s level. This shows a steep concentration at the top, where economic stress in the leading countries would have a much larger impact than changes across the rest.
 
 ---
+
+<img width="780" height="608" alt="top countries by ibrd repayments" src="https://github.com/user-attachments/assets/90cd6976-d240-48d6-82bb-9030faf52fa4" />
 
 ## 2. Top Countries by Total IBRD & Third-Party Repayments
 
