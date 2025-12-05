@@ -42,8 +42,10 @@ Total repayments to IBRD stand at **USD 38 billion**, with **USD 45.1 billion** 
 ##  Key Analytical Areas & Insights
 
 ---
-![Uploading loans held by country.PNG…]()
+
 <br>
+<img width="700" height="583" alt="loans held by country" src="https://github.com/user-attachments/assets/00d573f7-547c-4d8d-b84c-df606c3f0d04" />
+
 ## 1. Loans Held by Country
 
 Outstanding loan exposure is heavily concentrated in just two countries. **Colombia ($17.9B)** and **Egypt ($14.3B)** sit far above all others, meaning most financial risk is tied to these two borrowers. After Egypt, exposure drops sharply, with **Ecuador at $7B**, already less than half of Colombia’s level. This shows a steep concentration at the top, where economic stress in the leading countries would have a much larger impact than changes across the rest.
