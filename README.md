@@ -104,11 +104,11 @@ The **disbursed amount** represents the total money the IBRD has ever released t
 ---
 
 ## Tools and Technologies
-MySQL – Data cleaning and preparation
-Excel / CSV – Raw data source
-Power BI – Dashboard creation and data visualization
-Data Cleaning Process
-The dataset was cleaned and prepared in MySQL before analysis. Steps included:
+**MySQL – Data cleaning and preparation
+**Excel / CSV – Raw data source
+**Power BI – Dashboard creation and data visualization
+**Data Cleaning Process
+**The dataset was cleaned and prepared in MySQL before analysis. Steps included:
 
 ## Imported the dataset using the Table Data Import Wizard.
 
