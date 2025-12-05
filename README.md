@@ -23,14 +23,13 @@ The goal is to clearly understand how countries **borrow, repay, and manage thei
 
 ---
 
-##  Project Objectives
+##  Key Areas of Analysis
 
 * Analyze outstanding loan exposure by country
 * Evaluate repayment performance across borrowers
 * Compare disbursed vs undisbursed loan amounts
 * Track long-term repayment obligations through maturity timelines
 * Assess project activity by country
-* Deliver clear insights that support monitoring and strategic planning
 
 ---
 
@@ -43,7 +42,8 @@ Total repayments to IBRD stand at **USD 38 billion**, with **USD 45.1 billion** 
 ##  Key Analytical Areas & Insights
 
 ---
-
+![Uploading loans held by country.PNG…]()
+<br>
 ## 1. Loans Held by Country
 
 Outstanding loan exposure is heavily concentrated in just two countries. **Colombia ($17.9B)** and **Egypt ($14.3B)** sit far above all others, meaning most financial risk is tied to these two borrowers. After Egypt, exposure drops sharply, with **Ecuador at $7B**, already less than half of Colombia’s level. This shows a steep concentration at the top, where economic stress in the leading countries would have a much larger impact than changes across the rest.
@@ -110,6 +110,7 @@ The **disbursed amount** represents the total money the IBRD has ever released t
 * **Power BI** – Dashboard creation and data visualization
 
 ---
+
 
 ## Data Cleaning Process
 
