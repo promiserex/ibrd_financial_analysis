@@ -141,5 +141,5 @@ The **disbursed amount** represents the total money the IBRD has ever released t
 ##  Repository Contents
 
 * [ Raw and cleaned datasets](https://github.com/promiserex/ibrd_financial_analysis/tree/main/ibrd_data) → Raw and cleaned datasets (Excel/CSV)
-* [affordable housing data cleaning.sql ](https://github.com/promiserex/eluepromise-portfolio/blob/main/affordable%20housing%20data%20cleaning.sql) → MySQL cleaning and transformation queries
-* [Affordable Housing Dashboard](https://github.com/promiserex/ibrd_financial_analysis/blob/main/ibrd_dashboard.pbix) → Power BI 
+* [IBRD data cleaning.sql ](https://github.com/promiserex/ibrd_financial_analysis/blob/main/ibrd_data_cleaning.sql) → MySQL cleaning and transformation queries
+* [IBRD Dashboard](https://github.com/promiserex/ibrd_financial_analysis/blob/main/ibrd_dashboard.pbix) → Power BI 
