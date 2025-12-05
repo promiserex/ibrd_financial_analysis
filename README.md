@@ -1,4 +1,5 @@
-  <img width="70" height="79" alt="ibrd clipart-world-bank-group-finance-world-development-report-bank-text-investment-" src="https://github.com/user-attachments/assets/5fd91a50-c867-407b-9c22-aeeebebd18f5" /> # IBRD Statement of Loans & Guarantees — Financial Analysis Dashboard
+  <img width="70" height="79" alt="ibrd clipart-world-bank-group-finance-world-development-report-bank-text-investment-" src="https://github.com/user-attachments/assets/5fd91a50-c867-407b-9c22-aeeebebd18f5" /> 
+# IBRD Statement of Loans & Guarantees — Financial Analysis Dashboard
 
 ---
 
