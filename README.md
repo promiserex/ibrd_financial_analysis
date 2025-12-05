@@ -69,7 +69,7 @@ A mid-tier group (**Ecuador, Algeria, Guatemala, and the Dominican Republic**) a
 
 ---
 <br>
-<img width="780" height="600" alt="loan maturity" src="https://github.com/user-attachments/assets/62f98037-e072-4b96-89dd-0dc460da39d0" />
+<img width="780" height="610" alt="loan maturity" src="https://github.com/user-attachments/assets/62f98037-e072-4b96-89dd-0dc460da39d0" />
 
 
 ## 4. IBRD Loan Maturity Timeline
