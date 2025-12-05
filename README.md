@@ -112,18 +112,16 @@ The **disbursed amount** represents the total money the IBRD has ever released t
 ---
 
 
-## Data Cleaning Process
+## Data Cleaning Summary (SQL)
 
-The dataset was cleaned and prepared in **MySQL** before analysis.
-Steps included:
-
-1. Imported the dataset using the Table Data Import Wizard.
-2. Inspected table structure and column types using `SELECT` queries.
-3. Checked for duplicate records using window functions.
-4. Checked and handled missing or NULL values.
-5. Inspected text formats using `TRIM()`, `UPPER()`, and `REPLACE()` functions.
-6. Validated data accuracy before visualizing in Power BI.
-
+• Inspected the dataset and checked for duplicate records using key loan identifiers.
+• Standardized column names for countries and guarantors for better consistency.
+• Cleaned country and guarantor labels (e.g., unified different versions of “Egypt”).
+• Corrected inconsistent loan status formatting.
+• Validated key financial and date fields for completeness.
+• Removed empty and unnecessary columns to streamline the dataset.
+• Checked for missing project IDs and disbursement dates.
+• Finalized and reviewed the cleaned table for analysis readiness.
 
 ---
 
