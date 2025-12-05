@@ -2,7 +2,7 @@ Perfect — here is your **complete, clean, GitHub-ready `README.md`** with prop
 
 ---
 
-# 📊 IBRD Statement of Loans & Guarantees — Financial Analysis Dashboard
+# IBRD Statement of Loans & Guarantees — Financial Analysis Dashboard
 
 ---
 
@@ -103,22 +103,31 @@ The **disbursed amount** represents the total money the IBRD has ever released t
 
 ---
 
-## Tools and Technologies
-** MySQL – Data cleaning and preparation
-** Excel / CSV – Raw data source
-** Power BI – Dashboard creation and data visualization
-** Data Cleaning Process
-** The dataset was cleaned and prepared in MySQL before analysis. Steps included:
+##  Tools and Technologies
 
-## Imported the dataset using the Table Data Import Wizard.
+* **MySQL** – Data cleaning and preparation
+* **Excel / CSV** – Raw data source
+* **Power BI** – Dashboard creation and data visualization
 
-** Inspected table structure and column types using SELECT queries.
-** Checked for duplicate records using window functions.
-** Checked and handled missing or NULL values.
-** Inspected text formats using TRIM(), UPPER(), and REPLACE() functions.
-** Validated data accuracy before visualizing in Power BI.
+---
 
-## Repository Contents
-** Raw and cleaned datasets → Raw and cleaned datasets (Excel/CSV)
-** affordable housing data cleaning.sql → MySQL cleaning and transformation queries
-** Affordable Housing Dashboard → Power BI
+## Data Cleaning Process
+
+The dataset was cleaned and prepared in **MySQL** before analysis.
+Steps included:
+
+1. Imported the dataset using the Table Data Import Wizard.
+2. Inspected table structure and column types using `SELECT` queries.
+3. Checked for duplicate records using window functions.
+4. Checked and handled missing or NULL values.
+5. Inspected text formats using `TRIM()`, `UPPER()`, and `REPLACE()` functions.
+6. Validated data accuracy before visualizing in Power BI.
+
+
+---
+
+##  Repository Contents
+
+* [ Raw and cleaned datasets](https://github.com/promiserex/eluepromise-portfolio/tree/main/data) → Raw and cleaned datasets (Excel/CSV)
+* [affordable housing data cleaning.sql ](https://github.com/promiserex/eluepromise-portfolio/blob/main/affordable%20housing%20data%20cleaning.sql) → MySQL cleaning and transformation queries
+* [Affordable Housing Dashboard](https://github.com/promiserex/eluepromise-portfolio/blob/main/Affordable%20Housing%20Dashboard.pbix) → Power BI 
