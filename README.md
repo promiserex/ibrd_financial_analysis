@@ -42,15 +42,15 @@ Total repayments to IBRD stand at **USD 38 billion**, with **USD 45.1 billion** 
 ---
 
 <br>
-<img width="750" height="600" alt="loans held by country" src="https://github.com/user-attachments/assets/00d573f7-547c-4d8d-b84c-df606c3f0d04" />
+<img width="780" height="600" alt="loans held by country" src="https://github.com/user-attachments/assets/00d573f7-547c-4d8d-b84c-df606c3f0d04" />
 
 ## 1. Loans Held by Country
 
 Outstanding loan exposure is heavily concentrated in just two countries. **Colombia ($17.9B)** and **Egypt ($14.3B)** sit far above all others, meaning most financial risk is tied to these two borrowers. After Egypt, exposure drops sharply, with **Ecuador at $7B**, already less than half of Colombia’s level. This shows a steep concentration at the top, where economic stress in the leading countries would have a much larger impact than changes across the rest.
 
 ---
-
-<img width="780" height="608" alt="top countries by ibrd repayments" src="https://github.com/user-attachments/assets/90cd6976-d240-48d6-82bb-9030faf52fa4" />
+<br>
+<img width="780" height="600" alt="top countries by ibrd repayments" src="https://github.com/user-attachments/assets/90cd6976-d240-48d6-82bb-9030faf52fa4" />
 
 ## 2. Top Countries by Total IBRD & Third-Party Repayments
 
@@ -58,6 +58,9 @@ Repayment activity is dominated by a few countries. **Colombia leads with $15B**
 A key shift appears with **France**, where direct IBRD repayments are very low (**$38K**) but third-party repayments reach **$250M**, showing strong reliance on external settlement.
 
 ---
+<br>
+<img width="780" height="600" alt="disbursed and undisburesed" src="https://github.com/user-attachments/assets/e333cf23-5aac-457e-8f8d-5e8a8fd73e54" />
+
 
 ## 3. Disbursed vs Undisbursed Amounts
 
@@ -65,6 +68,9 @@ A key shift appears with **France**, where direct IBRD repayments are very low (
 A mid-tier group (**Ecuador, Algeria, Guatemala, and the Dominican Republic**) adds steady but less concentrated exposure. Countries like **Gabon, Honduras, and Fiji** contribute minimal amounts and mainly support diversification.
 
 ---
+<br>
+<img width="780" height="600" alt="loan maturity" src="https://github.com/user-attachments/assets/62f98037-e072-4b96-89dd-0dc460da39d0" />
+
 
 ## 4. IBRD Loan Maturity Timeline
 
@@ -72,6 +78,9 @@ Repayment obligations rise slowly until around 2030, reaching **$1.6B in 2031**,
 Overall, repayment pressure is heavily concentrated between **2035 and 2055**, forming two major long-term financial stress points.
 
 ---
+<br>
+<img width="780" height="600" alt="total projects" src="https://github.com/user-attachments/assets/5661e32b-b3f0-4475-a8d8-d50041272490" />
+
 
 ## 5. Number of Loan Projects by Country
 
