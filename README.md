@@ -33,6 +33,7 @@ The goal is to clearly understand how countries **borrow, repay, and manage thei
 ## Executive Summary <br>
 <img width="800" height="640" alt="dashboard 3" src="https://github.com/user-attachments/assets/8b5f804c-666e-4c3c-87e8-058ee2d93de3" />
 
+
 Total repayments to IBRD stand at **USD 38 billion**, with **USD 45.1 billion** still outstanding across **1,264 active projects**. The analysis shows that repayment obligations are heavily concentrated between **2035 and 2050**, marking the most critical period for long-term cash-flow planning and risk monitoring. The findings reveal strong concentration in both country exposure and future repayment pressure.
 
 ---
@@ -139,6 +140,6 @@ The **disbursed amount** represents the total money the IBRD has ever released t
 
 ##  Repository Contents
 
-* [ Raw and cleaned datasets](https://github.com/promiserex/eluepromise-portfolio/tree/main/data) → Raw and cleaned datasets (Excel/CSV)
+* [ Raw and cleaned datasets](https://github.com/promiserex/ibrd_financial_analysis/tree/main/ibrd_data) → Raw and cleaned datasets (Excel/CSV)
 * [affordable housing data cleaning.sql ](https://github.com/promiserex/eluepromise-portfolio/blob/main/affordable%20housing%20data%20cleaning.sql) → MySQL cleaning and transformation queries
 * [Affordable Housing Dashboard](https://github.com/promiserex/eluepromise-portfolio/blob/main/Affordable%20Housing%20Dashboard.pbix) → Power BI 
