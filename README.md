@@ -1,8 +1,4 @@
-Perfect — here is your **complete, clean, GitHub-ready `README.md`** with proper Markdown formatting using `##` headings. You can **copy and paste this directly** into your repository.
-
----
-
-# IBRD Statement of Loans & Guarantees — Financial Analysis Dashboard
+  <img width="70" height="79" alt="ibrd clipart-world-bank-group-finance-world-development-report-bank-text-investment-" src="https://github.com/user-attachments/assets/5fd91a50-c867-407b-9c22-aeeebebd18f5" /> # IBRD Statement of Loans & Guarantees — Financial Analysis Dashboard
 
 ---
 
@@ -35,6 +31,7 @@ The goal is to clearly understand how countries **borrow, repay, and manage thei
 
 ## Executive Summary <br>
 <img width="800" height="640" alt="dashboard 3" src="https://github.com/user-attachments/assets/8b5f804c-666e-4c3c-87e8-058ee2d93de3" />
+<br>
 
 Total repayments to IBRD stand at **USD 38 billion**, with **USD 45.1 billion** still outstanding across **1,264 active projects**. The analysis shows that repayment obligations are heavily concentrated between **2035 and 2050**, marking the most critical period for long-term cash-flow planning and risk monitoring. The findings reveal strong concentration in both country exposure and future repayment pressure.
 
