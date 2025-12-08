@@ -9,9 +9,6 @@
 - [Tools and Technologies](#tools-and-technologies)
 - [Data Cleaning Process (SQL)](#data-cleaning-process-sql)
 - [Repository Contents](#repository-contents)
-- [Recommendations](#recommendations)
-- [Author](#author)
-
 ---
 
 # IBRD Statement of Loans & Guarantees — Financial Analysis Dashboard
