@@ -155,4 +155,6 @@ The **disbursed amount** represents the total money the IBRD has ever released t
 
 * [ Raw and cleaned datasets](https://github.com/promiserex/ibrd_financial_analysis/tree/main/ibrd_data) → Raw and cleaned datasets (Excel/CSV)
 * [IBRD data cleaning.sql ](https://github.com/promiserex/ibrd_financial_analysis/blob/main/ibrd_data_cleaning.sql) → MySQL cleaning and transformation queries
-* [IBRD Dashboard](https://github.com/promiserex/ibrd_financial_analysis/blob/main/ibrd_dashboard.pbix) → Power BI 
+* [IBRD Dashboard](https://github.com/promiserex/ibrd_financial_analysis/blob/main/ibrd_dashboard.pbix) → Power BI
+---
+### The detailed analysis is available on my project website: **[View Full Analysis Here](https://your-wix-link.com)**
