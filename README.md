@@ -44,7 +44,7 @@ The goal is to clearly understand how countries **borrow, repay, and manage thei
 ---
 
 ## Executive Summary 
-<br>
+
 <img width="800" height="640" alt="dashboard 3" src="https://github.com/user-attachments/assets/8b5f804c-666e-4c3c-87e8-058ee2d93de3" />
 <br>
 <br>
