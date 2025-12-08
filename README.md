@@ -1,8 +1,9 @@
 ## Table of Contents
 
 - [Project Background](#project-background)
+- [Project Objectives](#project-objwctives)
 - [Executive Summary](#executive-summary)
-- [Key Focus Areas](#key-focus-areas)
+- [Key Analytical Areas & Insights](#key-analytical-areas-&-insights)
 - [Tools & Technologies](#tools--technologies)
 - [Data Cleaning Summary](#data-cleaning-summary-sql)
 - [Dashboard Preview](#dashboard-preview)
