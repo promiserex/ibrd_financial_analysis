@@ -2,7 +2,7 @@
 
 - [Project Background](#project-background)
 - [Project Objectives](#project-objectives)
-- [Executive Summary](executive-summary)
+- [Executive Summary](#executive-summary)
 - [Key Analytical Areas & Insights](#key-analytical-areas--insights)
 - [Recommendations](#recommendations)
 - [Key Financial Note](#key-financial-note)
